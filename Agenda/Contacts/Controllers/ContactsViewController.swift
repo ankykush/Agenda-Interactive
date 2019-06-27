@@ -11,9 +11,9 @@ import UIKit
 class ContactsViewController: UIViewController {
     //MARK: Properties
     @IBOutlet weak var tableView: UITableView!
-    var tcsMobNumArray = ["+1 (210) 241-8943", "+1 (210) 707-1951", "+(91) 9581388881"]
-    var calltcsMobNumArray = ["12102418943", "12107071951", "919581388881"]
-    var tcsNamesArray = ["Abhay Raje", "Shital Samant", "Lakshman Akella"]
+    var tcsMobNumArray = ["+1 (XXX) XXX-XXXX", "+1 (XXX) XXX-XXXX", "+1 (XXX) XXX-XXXX"]
+    var calltcsMobNumArray = ["1XXXXXXXXXX", "1XXXXXXXXXX", "1XXXXXXXXXX"]
+    var tcsNamesArray = ["John Doe", "Robert", "Jonathan"]
     //MARK: Life Cycle Methods
     override func viewDidLoad() {
         super.viewDidLoad()
