@@ -37,8 +37,8 @@ class ItineraryViewController: UIViewController {
     }
     
     func initializeModels() {
-        let executive1 = ExecutiveItinerary(imageName: "Miller", executiveName: "Paul Miller", domesticPdfName: "Itinerary_MILLER_PAUL_YKSOHF_domestic", internationalPdfName: "Itinerary_MILLER_PAUL_NBHMHR_international")
-        let executive2 = ExecutiveItinerary(imageName: "", executiveName: "Michael Black", domesticPdfName: "Itinerary_BLACK_MICHAEL_WDKJNQ_domestic", internationalPdfName: "Itinerary_BLACK_MICHAEL_WDKJNQ_international")
+        let executive1 = ExecutiveItinerary(imageName: "Miller", executiveName: "Rakes Kumar", domesticPdfName: "Itinerary_MILLER_PAUL_YKSOHF_domestic", internationalPdfName: "Itinerary_MILLER_PAUL_NBHMHR_international")
+        let executive2 = ExecutiveItinerary(imageName: "", executiveName: "V Ram", domesticPdfName: "Itinerary_BLACK_MICHAEL_WDKJNQ_domestic", internationalPdfName: "Itinerary_BLACK_MICHAEL_WDKJNQ_international")
         
         itineraries = [executive1, executive2]
     }

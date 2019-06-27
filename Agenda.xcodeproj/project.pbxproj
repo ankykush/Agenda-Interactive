@@ -15,23 +15,12 @@
 		204050B522AED88E00F9054D /* Hyderabad.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 204050B222AED88E00F9054D /* Hyderabad.pdf */; };
 		204050B622AED88E00F9054D /* Chennai.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 204050B322AED88E00F9054D /* Chennai.pdf */; };
 		204050B722AED88E00F9054D /* Pune.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 204050B422AED88E00F9054D /* Pune.pdf */; };
-		204050C322AF9C1C00F9054D /* Miller.png in Resources */ = {isa = PBXBuildFile; fileRef = 204050C022AF9C1B00F9054D /* Miller.png */; };
-		204050C422AF9C1C00F9054D /* Andrew.png in Resources */ = {isa = PBXBuildFile; fileRef = 204050C122AF9C1B00F9054D /* Andrew.png */; };
-		204050C522AF9C1C00F9054D /* Michael.png in Resources */ = {isa = PBXBuildFile; fileRef = 204050C222AF9C1C00F9054D /* Michael.png */; };
 		204050CA22AF9E3E00F9054D /* RakeshKumar.png in Resources */ = {isa = PBXBuildFile; fileRef = 204050C622AF9E3E00F9054D /* RakeshKumar.png */; };
 		204050CC22AF9E3E00F9054D /* PRK.png in Resources */ = {isa = PBXBuildFile; fileRef = 204050C822AF9E3E00F9054D /* PRK.png */; };
 		204050CD22AF9E3E00F9054D /* Ram.png in Resources */ = {isa = PBXBuildFile; fileRef = 204050C922AF9E3E00F9054D /* Ram.png */; };
 		204050CF22AFDE5100F9054D /* Kirthivasan.png in Resources */ = {isa = PBXBuildFile; fileRef = 204050CE22AFDE5100F9054D /* Kirthivasan.png */; };
 		204050D322B1609400F9054D /* AnanthKrishnan.png in Resources */ = {isa = PBXBuildFile; fileRef = 204050D122B1609300F9054D /* AnanthKrishnan.png */; };
-		204050DB22B17C7000F9054D /* GirishRatnam.png in Resources */ = {isa = PBXBuildFile; fileRef = 204050D722B17C6F00F9054D /* GirishRatnam.png */; };
-		204050DC22B17C7000F9054D /* UshaSrikanth.png in Resources */ = {isa = PBXBuildFile; fileRef = 204050D822B17C6F00F9054D /* UshaSrikanth.png */; };
-		204050DD22B17C7000F9054D /* Prashant.png in Resources */ = {isa = PBXBuildFile; fileRef = 204050D922B17C6F00F9054D /* Prashant.png */; };
-		204050DE22B17C7000F9054D /* SreejitRoy.png in Resources */ = {isa = PBXBuildFile; fileRef = 204050DA22B17C7000F9054D /* SreejitRoy.png */; };
 		2040510122B24DF800F9054D /* MainViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2040510022B24DF800F9054D /* MainViewController.swift */; };
-		2040510622B26CF700F9054D /* Rajesh.png in Resources */ = {isa = PBXBuildFile; fileRef = 2040510222B26CF600F9054D /* Rajesh.png */; };
-		2040510722B26CF700F9054D /* RahulSingh.png in Resources */ = {isa = PBXBuildFile; fileRef = 2040510322B26CF700F9054D /* RahulSingh.png */; };
-		2040510822B26CF700F9054D /* VijayMallya.png in Resources */ = {isa = PBXBuildFile; fileRef = 2040510422B26CF700F9054D /* VijayMallya.png */; };
-		2040510922B26CF700F9054D /* ManiNagasundaram.png in Resources */ = {isa = PBXBuildFile; fileRef = 2040510522B26CF700F9054D /* ManiNagasundaram.png */; };
 		2040510C22B29B0500F9054D /* Meenu.png in Resources */ = {isa = PBXBuildFile; fileRef = 2040510B22B29B0400F9054D /* Meenu.png */; };
 		2043750122A119C300685BED /* ExecutiveCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2043750022A119C300685BED /* ExecutiveCollectionViewCell.swift */; };
 		20643A2B22B39EE6005582E2 /* abhay.png in Resources */ = {isa = PBXBuildFile; fileRef = 20643A2722B39EE6005582E2 /* abhay.png */; };
@@ -107,23 +96,12 @@
 		204050B222AED88E00F9054D /* Hyderabad.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = Hyderabad.pdf; sourceTree = "<group>"; };
 		204050B322AED88E00F9054D /* Chennai.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = Chennai.pdf; sourceTree = "<group>"; };
 		204050B422AED88E00F9054D /* Pune.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = Pune.pdf; sourceTree = "<group>"; };
-		204050C022AF9C1B00F9054D /* Miller.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Miller.png; sourceTree = "<group>"; };
-		204050C122AF9C1B00F9054D /* Andrew.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Andrew.png; sourceTree = "<group>"; };
-		204050C222AF9C1C00F9054D /* Michael.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Michael.png; sourceTree = "<group>"; };
 		204050C622AF9E3E00F9054D /* RakeshKumar.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = RakeshKumar.png; sourceTree = "<group>"; };
 		204050C822AF9E3E00F9054D /* PRK.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = PRK.png; sourceTree = "<group>"; };
 		204050C922AF9E3E00F9054D /* Ram.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Ram.png; sourceTree = "<group>"; };
 		204050CE22AFDE5100F9054D /* Kirthivasan.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Kirthivasan.png; sourceTree = "<group>"; };
 		204050D122B1609300F9054D /* AnanthKrishnan.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = AnanthKrishnan.png; sourceTree = "<group>"; };
-		204050D722B17C6F00F9054D /* GirishRatnam.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = GirishRatnam.png; sourceTree = "<group>"; };
-		204050D822B17C6F00F9054D /* UshaSrikanth.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = UshaSrikanth.png; sourceTree = "<group>"; };
-		204050D922B17C6F00F9054D /* Prashant.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Prashant.png; sourceTree = "<group>"; };
-		204050DA22B17C7000F9054D /* SreejitRoy.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = SreejitRoy.png; sourceTree = "<group>"; };
 		2040510022B24DF800F9054D /* MainViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainViewController.swift; sourceTree = "<group>"; };
-		2040510222B26CF600F9054D /* Rajesh.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Rajesh.png; sourceTree = "<group>"; };
-		2040510322B26CF700F9054D /* RahulSingh.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = RahulSingh.png; sourceTree = "<group>"; };
-		2040510422B26CF700F9054D /* VijayMallya.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = VijayMallya.png; sourceTree = "<group>"; };
-		2040510522B26CF700F9054D /* ManiNagasundaram.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ManiNagasundaram.png; sourceTree = "<group>"; };
 		2040510B22B29B0400F9054D /* Meenu.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Meenu.png; sourceTree = "<group>"; };
 		2043750022A119C300685BED /* ExecutiveCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExecutiveCollectionViewCell.swift; sourceTree = "<group>"; };
 		20643A2722B39EE6005582E2 /* abhay.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = abhay.png; sourceTree = "<group>"; };
@@ -225,34 +203,6 @@
 			path = "TCS Profile pix";
 			sourceTree = "<group>";
 		};
-		204050D622B1613C00F9054D /* USAA Profile Pix */ = {
-			isa = PBXGroup;
-			children = (
-				204050C122AF9C1B00F9054D /* Andrew.png */,
-				204050C222AF9C1C00F9054D /* Michael.png */,
-				204050C022AF9C1B00F9054D /* Miller.png */,
-			);
-			path = "USAA Profile Pix";
-			sourceTree = "<group>";
-		};
-		204050DF22B17C7B00F9054D /* IBM Profile pix */ = {
-			isa = PBXGroup;
-			children = (
-				204050D722B17C6F00F9054D /* GirishRatnam.png */,
-				204050D922B17C6F00F9054D /* Prashant.png */,
-				204050DA22B17C7000F9054D /* SreejitRoy.png */,
-				204050D822B17C6F00F9054D /* UshaSrikanth.png */,
-			);
-			path = "IBM Profile pix";
-			sourceTree = "<group>";
-		};
-		47051CF3229E388D00D9FACF /* Models */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			path = Models;
-			sourceTree = "<group>";
-		};
 		47051CF5229E388D00D9FACF /* Controllers */ = {
 			isa = PBXGroup;
 			children = (
@@ -315,18 +265,10 @@
 			path = Controllers;
 			sourceTree = "<group>";
 		};
-		47051D0D229E38EE00D9FACF /* Models */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			path = Models;
-			sourceTree = "<group>";
-		};
 		47051D16229F5FC600D9FACF /* Contacts */ = {
 			isa = PBXGroup;
 			children = (
 				47051D1A229F5FF000D9FACF /* Controllers */,
-				47051D21229F82A700D9FACF /* Models */,
 				47051D20229F82A700D9FACF /* Views */,
 				47051D1B229F602400D9FACF /* Contacts.storyboard */,
 			);
@@ -350,20 +292,10 @@
 			path = Agenda/Contacts/Views;
 			sourceTree = SOURCE_ROOT;
 		};
-		47051D21229F82A700D9FACF /* Models */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			name = Models;
-			path = Agenda/Contacts/Models;
-			sourceTree = SOURCE_ROOT;
-		};
 		47051D2422A0A3F200D9FACF /* Info */ = {
 			isa = PBXGroup;
 			children = (
 				4744F20522AD86FA002F99D7 /* Controllers */,
-				4744F20722AD86FA002F99D7 /* Models */,
-				4744F20822AD86FA002F99D7 /* Views */,
 				47051D2722A0A43F00D9FACF /* Info.storyboard */,
 			);
 			path = Info;
@@ -373,7 +305,6 @@
 			isa = PBXGroup;
 			children = (
 				472DCFE822B23C6D00C005A9 /* Controllers */,
-				472DCFE922B23C7700C005A9 /* Models */,
 				472DCFEA22B23C7D00C005A9 /* Views */,
 				472DCFEF22B23F1400C005A9 /* ItineraryPDFs */,
 				472DCFEB22B23C9500C005A9 /* Itinerary.storyboard */,
@@ -387,13 +318,6 @@
 				472DCFED22B23CC900C005A9 /* ItineraryViewController.swift */,
 			);
 			path = Controllers;
-			sourceTree = "<group>";
-		};
-		472DCFE922B23C7700C005A9 /* Models */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			path = Models;
 			sourceTree = "<group>";
 		};
 		472DCFEA22B23C7D00C005A9 /* Views */ = {
@@ -422,20 +346,6 @@
 				4744F20A22AD870F002F99D7 /* InfoDetailViewController.swift */,
 			);
 			path = Controllers;
-			sourceTree = "<group>";
-		};
-		4744F20722AD86FA002F99D7 /* Models */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			path = Models;
-			sourceTree = "<group>";
-		};
-		4744F20822AD86FA002F99D7 /* Views */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			path = Views;
 			sourceTree = "<group>";
 		};
 		47AB98F622979EF200A59799 = {
@@ -481,15 +391,8 @@
 		47AB99142297A0B000A59799 /* Executive */ = {
 			isa = PBXGroup;
 			children = (
-				2040510522B26CF700F9054D /* ManiNagasundaram.png */,
-				2040510322B26CF700F9054D /* RahulSingh.png */,
-				2040510222B26CF600F9054D /* Rajesh.png */,
-				2040510422B26CF700F9054D /* VijayMallya.png */,
-				204050DF22B17C7B00F9054D /* IBM Profile pix */,
-				204050D622B1613C00F9054D /* USAA Profile Pix */,
 				204050D422B1611B00F9054D /* TCS Profile pix */,
 				47051CF5229E388D00D9FACF /* Controllers */,
-				47051CF3229E388D00D9FACF /* Models */,
 				47051CF8229E388D00D9FACF /* Views */,
 				47AB99212297A16C00A59799 /* Executive.storyboard */,
 			);
@@ -516,7 +419,6 @@
 			isa = PBXGroup;
 			children = (
 				47051D0A229E38EE00D9FACF /* Controllers */,
-				47051D0D229E38EE00D9FACF /* Models */,
 				47051D09229E38EE00D9FACF /* Views */,
 				47AB991D2297A14800A59799 /* Schedule.storyboard */,
 			);
@@ -644,7 +546,6 @@
 				204050B522AED88E00F9054D /* Hyderabad.pdf in Resources */,
 				47C5340922B20E2700E68C6F /* Lato-Hairline.ttf in Resources */,
 				47C5340422B20E2700E68C6F /* Lato-Bold.ttf in Resources */,
-				204050C522AF9C1C00F9054D /* Michael.png in Resources */,
 				204050B622AED88E00F9054D /* Chennai.pdf in Resources */,
 				204050B722AED88E00F9054D /* Pune.pdf in Resources */,
 				47C5341122B20E2700E68C6F /* Lato-Light.ttf in Resources */,
@@ -654,11 +555,7 @@
 				204050B022AE34B700F9054D /* TCS.pdf in Resources */,
 				47C5340122B20E2700E68C6F /* Lato-Italic.ttf in Resources */,
 				47051D2822A0A43F00D9FACF /* Info.storyboard in Resources */,
-				204050DC22B17C7000F9054D /* UshaSrikanth.png in Resources */,
-				204050DB22B17C7000F9054D /* GirishRatnam.png in Resources */,
 				47AB990D22979EF600A59799 /* LaunchScreen.storyboard in Resources */,
-				2040510822B26CF700F9054D /* VijayMallya.png in Resources */,
-				204050DE22B17C7000F9054D /* SreejitRoy.png in Resources */,
 				47C5340F22B20E2700E68C6F /* README.txt in Resources */,
 				47051D1C229F602400D9FACF /* Contacts.storyboard in Resources */,
 				47AEB08122B29E44005086A3 /* Itinerary_MILLER_PAUL_YKSOHF_domestic.pdf in Resources */,
@@ -674,22 +571,16 @@
 				4741C32B22BD9CAC002C0F3B /* Itinerary_BLACK_MICHAEL_WDKJNQ_international.pdf in Resources */,
 				20643A2E22B39EE6005582E2 /* shital.png in Resources */,
 				47C5341222B20E2700E68C6F /* Lato-Medium.ttf in Resources */,
-				204050DD22B17C7000F9054D /* Prashant.png in Resources */,
-				2040510622B26CF700F9054D /* Rajesh.png in Resources */,
 				2040510C22B29B0500F9054D /* Meenu.png in Resources */,
 				47AB990A22979EF600A59799 /* Assets.xcassets in Resources */,
-				204050C422AF9C1C00F9054D /* Andrew.png in Resources */,
 				47C5340622B20E2700E68C6F /* Lato-SemiboldItalic.ttf in Resources */,
 				47AB990822979EF200A59799 /* Main.storyboard in Resources */,
 				47AB991E2297A14800A59799 /* Schedule.storyboard in Resources */,
 				47C5340B22B20E2700E68C6F /* Lato-Semibold.ttf in Resources */,
-				2040510922B26CF700F9054D /* ManiNagasundaram.png in Resources */,
 				4741C32C22BD9CAC002C0F3B /* Itinerary_BLACK_MICHAEL_WDKJNQ_domestic.pdf in Resources */,
 				47C5340022B20E2700E68C6F /* Lato-HeavyItalic.ttf in Resources */,
-				2040510722B26CF700F9054D /* RahulSingh.png in Resources */,
 				47C5340322B20E2700E68C6F /* Lato-Thin.ttf in Resources */,
 				47C5341022B20E2700E68C6F /* Lato-BoldItalic.ttf in Resources */,
-				204050C322AF9C1C00F9054D /* Miller.png in Resources */,
 				47C5341322B20E2700E68C6F /* Lato-ThinItalic.ttf in Resources */,
 				204050D322B1609400F9054D /* AnanthKrishnan.png in Resources */,
 				47AB99222297A16C00A59799 /* Executive.storyboard in Resources */,
@@ -936,7 +827,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.tcs.mobility.AgendaClient;
+				PRODUCT_BUNDLE_IDENTIFIER = com.tcs.mobility.AgendaInteractive;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE_SPECIFIER = com.tcs.mobility_May18_2018;
 				SWIFT_VERSION = 5.0;
@@ -958,7 +849,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.tcs.mobility.AgendaClient;
+				PRODUCT_BUNDLE_IDENTIFIER = com.tcs.mobility.AgendaInteractive;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE_SPECIFIER = com.tcs.mobility_May18_2018;
 				SWIFT_VERSION = 5.0;
