@@ -58,6 +58,20 @@ class ScheduleViewController: UIViewController {
         scheduleDateScroller.tag = 999
     }
     
+    
+    func getIndexForTodaysSchedule() -> Int? {
+        for (index, element) in finalScheduleArray.enumerated() {
+            let dateFormatter = DateFormatter()
+            dateFormatter.dateFormat = "dd-MMMM-yyyy"
+            if let date = dateFormatter.date(from: element.dates) {
+                if Calendar.current.isDateInToday(date) {
+                    return index
+                }
+            }
+        }
+        return nil
+    }
+    
     func dateCellClicked(at index: Int) {
         //let mainData : ScheduleElement = finalScheduleArray[index]
         
@@ -118,8 +132,11 @@ class ScheduleViewController: UIViewController {
                     spinner.stopAnimating()
                     self.view.isUserInteractionEnabled = true
                     self.scheduleDateScroller.isHidden = false
-                    self.selectedIndexPath = IndexPath(row: 3, section: 0)
-                    self.dateCellClicked(at: 3)
+                    let index = self.getIndexForTodaysSchedule() ?? 3
+                    self.selectedIndexPath = IndexPath(row: index, section: 0)
+                    self.scheduleDateScroller.reloadData()
+                    self.scheduleDateScroller.selectItem(at: self.selectedIndexPath!, animated: true, scrollPosition: .centeredHorizontally)
+                    self.scheduleDateScroller.delegate?.collectionView?(self.scheduleDateScroller, didSelectItemAt: self.selectedIndexPath!)
                     
                 }
             }
@@ -246,4 +263,5 @@ extension ScheduleViewController: UICollectionViewDelegate, UICollectionViewData
         guard let index = scheduleDateScroller.indexPathForItem(at: center) else { return }
         scheduleDateScroller.delegate?.collectionView?(scheduleDateScroller, didSelectItemAt: index)
     }
+
 }
